@@ -1,6 +1,8 @@
 <h1 align="center">Bem vindo ao meu perfil!</h1>
 <h3 align="center">Um pouco sobre minha pessoa...</h3>
 
+</br>
+
 - 🌱 Atualmente estou estudando **Typescript**
 
 - 💬 Assunto que gosto de falar **Node.js**
@@ -13,7 +15,6 @@
 
 <h3 align="center">Linguagens que eu tenho domínio</h3>
 
-</br>
 </br>
 <p align="left">
 <h3>Liguaguem de marcação</h3>
