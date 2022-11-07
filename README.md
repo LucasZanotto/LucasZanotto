@@ -3,9 +3,7 @@
 
 </br>
 
-- 🌱 Atualmente estou estudando **Typescript**
-
-- 💬 Assunto que gosto de falar **Node.js**
+- 🌱 Atualmente estou estudando **SOLID**
 
 - 📫 Meu email **lucasabatizanotto@gmail.com**
 
