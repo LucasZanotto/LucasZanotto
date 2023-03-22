@@ -58,7 +58,7 @@ Caso queira entrar em contato comigo, pode me encontrar no meu e-mail lucasabati
 </a>
 <a href="mailto:lucasabatizanotto@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" width="40" height="40"/>
 </a>
-<a href="https://api.whatsapp.com/send?phone=554999271760"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/600px-WhatsApp.svg.png" width="40" height="40"/>
+<a href="https://api.whatsapp.com/send?phone=5549999271760"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/600px-WhatsApp.svg.png" width="40" height="40"/>
 </a>
 </p>
 
