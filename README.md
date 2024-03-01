@@ -1,7 +1,7 @@
 
 <h1 align="center">Bem vindo ao meu perfil!!</h1>
 
-Olá, meu nome é Lucas. Sou Desenvolvedor Web há mais de um ano e tenho experiência em linguagens de marcação como HTML, estilização com CSS, programação com JavaScript, Typescript e Python, e bibliotecas de Front-End como o React.js. Para testar meus códigos, uso Jest, Mocha e RTL. Para o Back-End, uso Node.js com Express para minhas requisições. Possuo conhecimentos em bancos de dados MySQL e MongoDB. Entre as ferramentas que uso para trabalhar estão Linux, Git, Postman, entre outras.
+Olá, meu nome é Lucas. Sou Desenvolvedor Web há mais de 2 anos e tenho experiência em linguagens de marcação como HTML, estilização com CSS, programação com JavaScript, Typescript e Python, e bibliotecas de Front-End como o React.js. Para testar meus códigos, uso Jest, Mocha e RTL. Para o Back-End, uso Node.js com Express para minhas requisições. Possuo conhecimentos em bancos de dados MySQL e MongoDB. Entre as ferramentas que uso para trabalhar estão Linux, Git, Postman, entre outras.
 
 <br/>
 
