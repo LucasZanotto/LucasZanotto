@@ -42,7 +42,7 @@ Olá, meu nome é Lucas. Sou Desenvolvedor Web há mais de 2 anos e tenho experi
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="70" height="60"/> 
   </a>
-  <a href="https://adonisjs.com" target=_blank rel="noreferrer"> 
+  <a href="https://adonisjs.com" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/user-attachments/assets/b8666695-68dc-442b-80a9-1050bdf51014" alt="adonis" width="70" height="60"/> 
   </a> 
 </p>
