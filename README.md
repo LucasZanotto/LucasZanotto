@@ -43,6 +43,7 @@ Olá, meu nome é Lucas. Sou Desenvolvedor Web há mais de 2 anos e tenho experi
       <li>RTL</li>
     </ul>
   </div>
+</div>
 <br/>
 
 ## **Experiência**
