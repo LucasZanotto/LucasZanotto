@@ -8,8 +8,6 @@ Olá, meu nome é Lucas. Sou Desenvolvedor Web há mais de 2 anos e tenho experi
 ## **Linguagens e Ferramentas**
 ## Tecnologias e Ferramentas
 
-| Front-End                         | Back-End e Outras Ferramentas      |
-|-----------------------------------|------------------------------------|
 | - HTML                            | - NestJS                            |
 | - CSS                             | - PHP                               |
 | - JavaScript                       | - Laravel                           |
