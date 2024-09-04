@@ -8,45 +8,46 @@ Olá, meu nome é Lucas. Sou Desenvolvedor Web há mais de 2 anos e tenho experi
 ## **Linguagens e Ferramentas**
 ## Tecnologias e Ferramentas
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="flex: 1; padding: 10px;">
-    <ul>
-      <li>HTML</li>
-      <li>CSS</li>
-      <li>JavaScript</li>
-      <li>TypeScript</li>
-      <li>ReactJS</li>
-      <li>Vue</li>
-      <li>Angular</li>
-      <li>Redux</li>
-      <li>Tailwind</li>
-      <li>Bootstrap</li>
-      <li>Git</li>
-      <li>Node.js</li>
-      <li>Express.js</li>
-      <li>AdonisJS</li>
-    </ul>
-  </div>
-  <div style="flex: 1; padding: 10px;">
-    <ul>
-      <li>NestJS</li>
-      <li>PHP</li>
-      <li>Laravel</li>
-      <li>C#</li>
-      <li>.NET</li>
-      <li>MySQL</li>
-      <li>MongoDB</li>
-      <li>Python</li>
-      <li>Jest</li>
-      <li>Mocha</li>
-      <li>Postman</li>
-      <li>Insomnia</li>
-      <li>Linux</li>
-      <li>RTL</li>
-    </ul>
-  </div>
-</div>
-
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+        <li>TypeScript</li>
+        <li>ReactJS</li>
+        <li>Vue</li>
+        <li>Angular</li>
+        <li>Redux</li>
+        <li>Tailwind</li>
+        <li>Bootstrap</li>
+        <li>Git</li>
+        <li>Node.js</li>
+        <li>Express.js</li>
+        <li>AdonisJS</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>NestJS</li>
+        <li>PHP</li>
+        <li>Laravel</li>
+        <li>C#</li>
+        <li>.NET</li>
+        <li>MySQL</li>
+        <li>MongoDB</li>
+        <li>Python</li>
+        <li>Jest</li>
+        <li>Mocha</li>
+        <li>Postman</li>
+        <li>Insomnia</li>
+        <li>Linux</li>
+        <li>RTL</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
