@@ -6,44 +6,25 @@ Olá, meu nome é Lucas. Sou Desenvolvedor Web há mais de 2 anos e tenho experi
 <br/>
 
 ## **Linguagens e Ferramentas**
-<table>
-  <tr>
-    <td>
-      **Front-End**
-      - HTML
-      - CSS
-      - JavaScript
-      - TypeScript
-      - ReactJS
-      - Vue
-      - Angular
-      - Redux
-      - Tailwind
-      - Bootstrap
-      - Git
-      - Node.js
-      - Express.js
-      - AdonisJS
-    </td>
-    <td>
-      **Back-End e Outras Ferramentas**
-      - NestJS
-      - PHP
-      - Laravel
-      - C#
-      - .NET
-      - MySQL
-      - MongoDB
-      - Python
-      - Jest
-      - Mocha
-      - Postman
-      - Insomnia
-      - Linux
-      - RTL
-    </td>
-  </tr>
-</table>
+## Tecnologias e Ferramentas
+
+| Front-End                         | Back-End e Outras Ferramentas      |
+|-----------------------------------|------------------------------------|
+| - HTML                            | - NestJS                            |
+| - CSS                             | - PHP                               |
+| - JavaScript                       | - Laravel                           |
+| - TypeScript                       | - C#                                |
+| - ReactJS                          | - .NET                              |
+| - Vue                              | - MySQL                             |
+| - Angular                          | - MongoDB                           |
+| - Redux                            | - Python                            |
+| - Tailwind                         | - Jest                              |
+| - Bootstrap                        | - Mocha                             |
+| - Git                              | - Postman                           |
+| - Node.js                          | - Insomnia                          |
+| - Express.js                       | - Linux                             |
+| - AdonisJS                         | - RTL                               |
+
 
 <br/>
 
