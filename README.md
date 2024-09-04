@@ -6,8 +6,10 @@ Olá, meu nome é Lucas. Sou Desenvolvedor Web há mais de 2 anos e tenho experi
 <br/>
 
 ## **Linguagens e Ferramentas**
-<div style="display: flex; justify-content: space-between;">
-  <div style="flex: 1; padding: 10px;">
+<h2>Tecnologias e Ferramentas</h2>
+
+<div style="display: flex; justify-content: space-between; gap: 20px;">
+  <div style="flex: 1; min-width: 200px; padding: 10px; box-sizing: border-box;">
     <ul>
       <li>HTML</li>
       <li>CSS</li>
@@ -25,7 +27,7 @@ Olá, meu nome é Lucas. Sou Desenvolvedor Web há mais de 2 anos e tenho experi
       <li>AdonisJS</li>
     </ul>
   </div>
-  <div style="flex: 1; padding: 10px;">
+  <div style="flex: 1; min-width: 200px; padding: 10px; box-sizing: border-box;">
     <ul>
       <li>NestJS</li>
       <li>PHP</li>
@@ -44,6 +46,7 @@ Olá, meu nome é Lucas. Sou Desenvolvedor Web há mais de 2 anos e tenho experi
     </ul>
   </div>
 </div>
+
 <br/>
 
 ## **Experiência**
