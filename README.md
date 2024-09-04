@@ -59,7 +59,7 @@ Tenho experiência em desenvolvimento de mais de 20 projetos web, utilizando as 
 ## **Conecte-se comigo!**
 Caso queira entrar em contato comigo, pode me encontrar no meu e-mail lucasabatizanotto@gmail.com ou se prefirir nessas outras redes
 <p align="left">
-<a href="https://discord.gg/Zanotto#3280" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Zanotto#3280" height="40" width="40" />
+<a href="https://discord.gg/ottonaz_reverse" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Zanotto#3280" height="40" width="40" />
 </a>
 <a href="mailto:lucasabatizanotto@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" width="40" height="40"/>
 </a>
